@@ -21,4 +21,4 @@ TypeScript, Python, SQL | Nuxt, Vue, Next.js, React, Tailwind, GSAP | ClickHouse
 
 ## Find me
 
-[Portfolio](https://www.avirajpaul.in) | [LinkedIn](https://www.linkedin.com/in/aviraj-paul-14843722b/) | [LeetCode](https://leetcode.com/u/avipaul_/)
+[Portfolio](https://www.avirajpaul.in) | [LinkedIn](https://www.linkedin.com/in/aviraj-paul/) | [LeetCode](https://leetcode.com/u/avipaul_/)
